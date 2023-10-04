@@ -29,4 +29,4 @@ It provides a data-driven approach to improve academic support.
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/student-score-prediction-regression.git
+   https://github.com/hrutiknaik11/Student_Score_Prediction_Using_Regression.git
